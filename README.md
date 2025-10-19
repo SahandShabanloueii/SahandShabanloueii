@@ -1,62 +1,56 @@
-<!--
-  👋 Welcome folks!
-  This is a README for your GitHub profile.
-  You can add / remove sections as you like.
--->
-
+<!-- HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRww7rXG/giphy.gif" alt="nerdy animation" width="200"/>
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="200"/>
 </p>
 
-<h1 align="center">Hi, I’m Sahand 👋</h1>
-<h3 align="center">Frontend Dev | React / Next.js / Tailwind Enthusiast</h3>
-
+<h1 align="center">
+  Hi 👋, I'm Sahand
+</h1>
 <p align="center">
-  <a href="https://github.com/SahandShabanloueii">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahandShabanloueii&layout=compact&theme=dark" />
-  </a>
-  <a href="https://github.com/SahandShabanloueii">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SahandShabanloueii&show_icons=true&theme=dark" />
-  </a>
+  <em>Front-End Wizard ⚡ | JavaScript Ninja 🟢 | CSS Magician 🖤</em>
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-Here are some of the stacks I enjoy grooving with:
-
-| Frontend | Tools & Styling | Others |
-|---|---|---|
-| React, Next.js | Tailwind CSS, Styled Components | JavaScript / TypeScript |
-| Vite | ESLint, Prettier | Git & GitHub |
-| Framer Motion | Animation libraries (Lottie, GSAP) | Node.js basics |
+<!-- ABOUT ME -->
+## About Me
+<p align="center">
+  I'm a passionate front-end developer obsessed with creating clean, fast, and interactive web experiences. I love turning designs into reality and making the web a cooler place.
+</p>
 
 ---
 
-## 🚀 What I’m Doing / Working On
-
-- Building interfaces that feel *alive* — micro-animations, smooth transitions, delightful UI.  
-- Learning or deepening skills around data visualization in React.  
-- Open to collaborate on Next.js / Tailwind / React UI component libraries.
-
----
-
-## 🔗 Let’s Connect
-
-| Platform | Link |
-|---|---|
-| LinkedIn | [Sahand Shabanlouei](https://ir.linkedin.com/in/sahand-shabanlouei-356150207) |
-| Email | your_email@example.com |
-| Twitter / X | [@your_handle](https://twitter.com/your_handle) |
+<!-- SKILLS -->
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
 
 ---
 
-## ⚡ Fun Nerdy Bits
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true"/>
+</p>
 
-> “Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke  
+---
 
-```text
-if (you.love(frontend) && you.love(animation)) {
-  console.log("We're gonna get along great!");
-}
+<!-- CONTACT -->
+## 📫 Contact Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
